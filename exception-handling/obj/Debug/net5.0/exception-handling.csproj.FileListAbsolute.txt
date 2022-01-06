@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\bin\Debug\net5.0\exception-handling.exe
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\bin\Debug\net5.0\exception-handling.deps.json
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\bin\Debug\net5.0\exception-handling.runtimeconfig.json
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\bin\Debug\net5.0\exception-handling.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\bin\Debug\net5.0\exception-handling.dll
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\bin\Debug\net5.0\ref\exception-handling.dll
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\bin\Debug\net5.0\exception-handling.pdb
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.dll
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\ref\exception-handling.dll
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.pdb
+C:\Users\mrtk1\Desktop\dotnet101\exception-handling\obj\Debug\net5.0\exception-handling.genruntimeconfig.cache
