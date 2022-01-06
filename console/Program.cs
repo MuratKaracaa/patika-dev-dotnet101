@@ -1,11 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 
-namespace console 
+namespace console
 {
     class Program
     {
-        public static void Main (string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("İsminizi girin: ");
             string name = Console.ReadLine();
@@ -14,7 +13,6 @@ namespace console
             string lastName = Console.ReadLine();
 
             Console.WriteLine("Hoşgeldin" + " " + name + " " + lastName);
-
         }
     }
 }
