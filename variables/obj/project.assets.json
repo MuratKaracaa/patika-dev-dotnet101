@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrtk1\\Desktop\\dotnet101\\console\\console.csproj",
-      "projectName": "console",
-      "projectPath": "C:\\Users\\mrtk1\\Desktop\\dotnet101\\console\\console.csproj",
+      "projectUniqueName": "C:\\Users\\mrtk1\\Desktop\\dotnet101\\variables\\variables.csproj",
+      "projectName": "variables",
+      "projectPath": "C:\\Users\\mrtk1\\Desktop\\dotnet101\\variables\\variables.csproj",
       "packagesPath": "C:\\Users\\mrtk1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrtk1\\Desktop\\dotnet101\\console\\obj\\",
+      "outputPath": "C:\\Users\\mrtk1\\Desktop\\dotnet101\\variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mrtk1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,13 +6,13 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("İsminizi girin: ");
-            string name = Console.ReadLine();
+            Console.WriteLine("Adınızı girin: ");
+            String name = Console.ReadLine();
+            Console.WriteLine("Soyadınızı girin");
+            String lastName = Console.ReadLine();
+            String res = $"Hoşgeldin {name} {lastName}";
 
-            Console.WriteLine("Soyisminizi girin: ");
-            string lastName = Console.ReadLine();
-
-            Console.WriteLine("Hoşgeldin" + " " + name + " " + lastName);
+            Console.WriteLine(res);
         }
     }
 }

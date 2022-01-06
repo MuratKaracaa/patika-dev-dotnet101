@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\dotnet101\variables\bin\Debug\net5.0\variables.exe
+C:\Users\mrtk1\Desktop\dotnet101\variables\bin\Debug\net5.0\variables.deps.json
+C:\Users\mrtk1\Desktop\dotnet101\variables\bin\Debug\net5.0\variables.runtimeconfig.json
+C:\Users\mrtk1\Desktop\dotnet101\variables\bin\Debug\net5.0\variables.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\dotnet101\variables\bin\Debug\net5.0\variables.dll
+C:\Users\mrtk1\Desktop\dotnet101\variables\bin\Debug\net5.0\ref\variables.dll
+C:\Users\mrtk1\Desktop\dotnet101\variables\bin\Debug\net5.0\variables.pdb
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.dll
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\ref\variables.dll
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.pdb
+C:\Users\mrtk1\Desktop\dotnet101\variables\obj\Debug\net5.0\variables.genruntimeconfig.cache
