@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\bin\Debug\net5.0\ternaryOp.exe
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\bin\Debug\net5.0\ternaryOp.deps.json
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\bin\Debug\net5.0\ternaryOp.runtimeconfig.json
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\bin\Debug\net5.0\ternaryOp.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\bin\Debug\net5.0\ternaryOp.dll
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\bin\Debug\net5.0\ref\ternaryOp.dll
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\bin\Debug\net5.0\ternaryOp.pdb
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.dll
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ref\ternaryOp.dll
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.pdb
+C:\Users\mrtk1\Desktop\dotnet101\ternaryOp\obj\Debug\net5.0\ternaryOp.genruntimeconfig.cache
