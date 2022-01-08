@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\bin\Debug\net5.0\recursives-extensions.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\bin\Debug\net5.0\recursives-extensions.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\bin\Debug\net5.0\recursives-extensions.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\bin\Debug\net5.0\recursives-extensions.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\bin\Debug\net5.0\recursives-extensions.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\bin\Debug\net5.0\ref\recursives-extensions.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\bin\Debug\net5.0\recursives-extensions.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\ref\recursives-extensions.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\recursives-extensions\obj\Debug\net5.0\recursives-extensions.genruntimeconfig.cache
