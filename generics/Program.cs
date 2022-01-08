@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace generics
@@ -33,6 +34,17 @@ namespace generics
                 Console.WriteLine($"Kullanıcı emaili: {u.Email}");
                 Console.WriteLine($"Kullanıcı numarası: {u.Number}");
             }
+
+            ArrayList arrList = new();
+            arrList.Add(5);
+            arrList.Add("dfsdfsd");
+            arrList.Add(':');
+            arrList.Add(true);
+            arrList.Add(user1);
+            arrList.AddRange(userList);
+
+
+
         }
     }
 
