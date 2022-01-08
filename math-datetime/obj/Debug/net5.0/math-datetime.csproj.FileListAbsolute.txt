@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\bin\Debug\net5.0\math-datetime.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\bin\Debug\net5.0\math-datetime.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\bin\Debug\net5.0\math-datetime.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\bin\Debug\net5.0\math-datetime.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\bin\Debug\net5.0\math-datetime.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\bin\Debug\net5.0\ref\math-datetime.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\bin\Debug\net5.0\math-datetime.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\ref\math-datetime.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\math-datetime\obj\Debug\net5.0\math-datetime.genruntimeconfig.cache
