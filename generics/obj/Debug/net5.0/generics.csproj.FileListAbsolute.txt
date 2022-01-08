@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\bin\Debug\net5.0\generics.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\bin\Debug\net5.0\generics.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\bin\Debug\net5.0\generics.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\bin\Debug\net5.0\generics.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\bin\Debug\net5.0\generics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\bin\Debug\net5.0\ref\generics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\bin\Debug\net5.0\generics.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\ref\generics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\generics\obj\Debug\net5.0\generics.genruntimeconfig.cache
