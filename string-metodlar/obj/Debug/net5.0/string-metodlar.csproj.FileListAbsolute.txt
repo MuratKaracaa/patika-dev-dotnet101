@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\bin\Debug\net5.0\string-metodlar.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\bin\Debug\net5.0\string-metodlar.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\bin\Debug\net5.0\string-metodlar.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\bin\Debug\net5.0\string-metodlar.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\bin\Debug\net5.0\string-metodlar.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\bin\Debug\net5.0\ref\string-metodlar.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\bin\Debug\net5.0\string-metodlar.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\ref\string-metodlar.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\string-metodlar\obj\Debug\net5.0\string-metodlar.genruntimeconfig.cache
