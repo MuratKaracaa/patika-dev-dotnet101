@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\bin\Debug\net5.0\classes-statics.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\bin\Debug\net5.0\classes-statics.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\bin\Debug\net5.0\classes-statics.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\bin\Debug\net5.0\classes-statics.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\bin\Debug\net5.0\classes-statics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\bin\Debug\net5.0\ref\classes-statics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\bin\Debug\net5.0\classes-statics.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\ref\classes-statics.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-statics\obj\Debug\net5.0\classes-statics.genruntimeconfig.cache
