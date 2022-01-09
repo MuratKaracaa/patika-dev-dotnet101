@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\bin\Debug\net5.0\classes-constructor.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\bin\Debug\net5.0\classes-constructor.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\bin\Debug\net5.0\classes-constructor.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\bin\Debug\net5.0\classes-constructor.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\bin\Debug\net5.0\classes-constructor.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\bin\Debug\net5.0\ref\classes-constructor.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\bin\Debug\net5.0\classes-constructor.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\ref\classes-constructor.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-constructor\obj\Debug\net5.0\classes-constructor.genruntimeconfig.cache
