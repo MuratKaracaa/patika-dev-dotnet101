@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = conversion
-build_property.ProjectDir = c:\Users\mrtk1\Desktop\dotnet101\conversion\
+build_property.ProjectDir = c:\Users\mrtk1\Desktop\patika-dev-dotnet101\conversion\
