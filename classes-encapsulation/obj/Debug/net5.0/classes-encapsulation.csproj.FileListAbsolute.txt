@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\bin\Debug\net5.0\classes-encapsulation.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\bin\Debug\net5.0\classes-encapsulation.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\bin\Debug\net5.0\classes-encapsulation.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\bin\Debug\net5.0\classes-encapsulation.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\bin\Debug\net5.0\classes-encapsulation.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\bin\Debug\net5.0\ref\classes-encapsulation.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\bin\Debug\net5.0\classes-encapsulation.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\ref\classes-encapsulation.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes-encapsulation\obj\Debug\net5.0\classes-encapsulation.genruntimeconfig.cache
