@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\bin\Debug\net5.0\classes.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\bin\Debug\net5.0\classes.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\bin\Debug\net5.0\classes.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\bin\Debug\net5.0\classes.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\bin\Debug\net5.0\classes.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\bin\Debug\net5.0\ref\classes.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\bin\Debug\net5.0\classes.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\ref\classes.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\classes\obj\Debug\net5.0\classes.genruntimeconfig.cache
