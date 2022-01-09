@@ -1,0 +1,16 @@
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\bin\Debug\net5.0\enums.exe
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\bin\Debug\net5.0\enums.deps.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\bin\Debug\net5.0\enums.runtimeconfig.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\bin\Debug\net5.0\enums.runtimeconfig.dev.json
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\bin\Debug\net5.0\enums.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\bin\Debug\net5.0\ref\enums.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\bin\Debug\net5.0\enums.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.csproj.AssemblyReference.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.AssemblyInfoInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.AssemblyInfo.cs
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.csproj.CoreCompileInputs.cache
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\ref\enums.dll
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.pdb
+C:\Users\mrtk1\Desktop\patika-dev-dotnet101\enums\obj\Debug\net5.0\enums.genruntimeconfig.cache
