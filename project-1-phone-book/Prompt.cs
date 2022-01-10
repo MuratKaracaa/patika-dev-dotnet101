@@ -173,7 +173,7 @@ namespace project_1_phone_book
 
         private static void checkSelection(string selection)
         {
-            List<string> selectionOptions = new List<string>() { "y", "n" };
+            List<string> selectionOptions = new List<string>() { "y", "n", "Y", "N" };
             if (!selectionOptions.Contains(selection)) throw new Exception("Geçerli bir tercih yapınız");
         }
     }
