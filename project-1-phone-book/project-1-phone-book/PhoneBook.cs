@@ -71,7 +71,7 @@ namespace project_1_phone_book
 
         public int FindFromBook(int phoneNumber)
         {
-            List<Contact> foundContacts = book.FindAll(contact => contact.PhoneNumber == phoneNumber);
+            List<Contact> foundContacts = book.FindAll(contact => contact.PhoneNumber.Equals(phoneNumber));
             int i = 0;
             try
             {
@@ -92,7 +92,7 @@ namespace project_1_phone_book
 
         public int FindFromBook(string searchParam)
         {
-            List<Contact> foundContacts = book.FindAll(contact => contact.Name == searchParam || contact.LastName == searchParam);
+            List<Contact> foundContacts = book.FindAll(contact => contact.Name.Contains(searchParam) || contact.LastName.Contains(searchParam));
             int i = 0;
             try
             {
