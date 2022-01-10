@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42f28570-b42d-4da0-a934-4cc4b352ce49": {
+      "ProjectGuid": "42f28570-b42d-4da0-a934-4cc4b352ce49",
+      "DisplayName": "ternaryOp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,5 @@
+C:\Users\mrtk1\source\repos\patika-dev-dotnet101\project-1-phone-book\project-1-phone-book\bin\publish\project-1-phone-book.exe
+C:\Users\mrtk1\source\repos\patika-dev-dotnet101\project-1-phone-book\project-1-phone-book\bin\publish\project-1-phone-book.dll
+C:\Users\mrtk1\source\repos\patika-dev-dotnet101\project-1-phone-book\project-1-phone-book\bin\publish\project-1-phone-book.deps.json
+C:\Users\mrtk1\source\repos\patika-dev-dotnet101\project-1-phone-book\project-1-phone-book\bin\publish\project-1-phone-book.runtimeconfig.json
+C:\Users\mrtk1\source\repos\patika-dev-dotnet101\project-1-phone-book\project-1-phone-book\bin\publish\project-1-phone-book.pdb
