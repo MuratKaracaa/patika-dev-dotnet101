@@ -10,22 +10,23 @@ namespace ToDo
     {
         private string title;
         private string content;
-        private string size;
-        private string person;
+        private int size;
+        private int appointedPerson;
         private string line;
         public string Title { get => title; set => title = value; }
         public string Content { get => content; set => content = value; }
-        public string Size { get => size; set => size = value; }
-        public string Person { get => person; set => person = value; }
-        public string Line { get => line; set => line = value; }
+        public int Size { get => size; set => size = value; }
 
-        public Card(string title, string content, string size, string person)
+        public string Line { get => line; set => line = value; }
+        public int AppointedPerson { get => appointedPerson; set => appointedPerson = value; }
+
+        public Card(string title, string content, int size, int appointedPerson)
         {
             this.Title = title;
             this.Content = content;
             this.Size = size;
-            this.Person = person;
-            this.Line = "";
+            this.AppointedPerson = appointedPerson;
+            this.Line = Enums_Constants.Constants.ToDo;
         }      
 
     }
