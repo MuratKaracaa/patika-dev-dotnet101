@@ -1,0 +1,5 @@
+C:\Users\murat\source\repos\patika-dev-dotnet101\ToDo\ToDo\bin\publish\ToDo.exe
+C:\Users\murat\source\repos\patika-dev-dotnet101\ToDo\ToDo\bin\publish\ToDo.dll
+C:\Users\murat\source\repos\patika-dev-dotnet101\ToDo\ToDo\bin\publish\ToDo.deps.json
+C:\Users\murat\source\repos\patika-dev-dotnet101\ToDo\ToDo\bin\publish\ToDo.runtimeconfig.json
+C:\Users\murat\source\repos\patika-dev-dotnet101\ToDo\ToDo\bin\publish\ToDo.pdb
